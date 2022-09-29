@@ -1,0 +1,23 @@
+body{
+    background-color: cornsilk;
+}
+
+.container{
+    border: 50px solid chocolate;
+    text-align: center;
+    padding:50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+
+}
+.para{
+    background-color:burlywood;
+}
+.cls1{
+    font-size: 40px;
+}
+.cls2{
+    font-size: 20px;
+}
+
